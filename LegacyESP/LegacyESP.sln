@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegacyESP", "LegacyESP\LegacyESP.csproj", "{16C9D585-45C2-40A3-8A5D-0342D1F52700}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16C9D585-45C2-40A3-8A5D-0342D1F52700}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16C9D585-45C2-40A3-8A5D-0342D1F52700}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16C9D585-45C2-40A3-8A5D-0342D1F52700}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16C9D585-45C2-40A3-8A5D-0342D1F52700}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F986FD01-7A7C-498D-8B5B-126087ABA76C}
+	EndGlobalSection
+EndGlobal
